@@ -11,6 +11,13 @@ released under the same license.
 
 ## Ways to contribute
 
+- **Claim it before you start.** Comment on the issue before you start work — it takes
+  ten seconds and stops two people independently building the same thing (it's happened
+  more than once). Check [ROADMAP.md](ROADMAP.md) for where the project is going and
+  which milestone an issue belongs to, and browse the
+  [good first issues](https://github.com/adlerqa/wardeniq/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+  filter if you're new here. In return, maintainers aim to respond within a day or so and
+  to close issues promptly once they ship.
 - **Report a bug** — open a GitHub issue with steps to reproduce, expected vs.
   actual behavior, and your environment (OS, Docker version, LLM provider).
 - **Request a feature** — open an issue describing the use case first; that
